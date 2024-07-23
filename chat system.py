@@ -53,5 +53,5 @@ def chat():
         elif choice == 'c':
             view_messages()
         else:
-            print("Invalid choice. Please try again.")
+            print("Invalid . Please try again.")
 chat()
